@@ -1,0 +1,74 @@
+,Travel Focus Group Summary,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Variable,,,,,,Variable,,,,,,Variable,
+,CityTier1,CityTier2,CityTier3,Statistic,,,CityTier1,CityTier2,CityTier3,Statistic,,,CityTier2
+Sale Index,12,11,12,Average,,Sale Index,12,11,12,Average,,Sale Index,11
+Age,40,40,40,Average,,DurationOfPitch,16,14,16,Average,,Average Age,40
+30s,844,46,47,Count,,Age,,,,Average,,Age 30s,46
+40s,412,36,234,Count,,30s,844,46,47,Count,,Age 40s,36
+50s,232,8,103,Count,,40s,412,36,234,Count,,Age 50s,8
+60s,11,2,15,Count,,50s,232,8,103,Count,,Age 60s,2
+Monthly Income,24664,24351,25071,Average,,60s,11,2,15,Count,,Monthly Income Average,24
+20k-25k,976,63,457,Count,,,CityTier1,CityTier2,CityTier3,,,Monthly Income 20k-25k,63
+25-30k,338,19,272,Count,,Average,24664,24351,25071,,,Monthly Income 25-30k,19
+30-35k,176,10,67,Count,,20k-25k,976,63,457,Count,,Monthly Income 30-35k,10
+35-40k,9,,3,Count,,25-30k,338,19,272,Count,,Monthly Income 35-40k,
+Number Of Children Visiting,2,2,2,Average,,30-35k,176,10,67,Count,,Average Children,2
+1,786,48,418,Count,,35-40k,9,,3,Count,,1 Children,48
+2,555,34,306,Count,,,CityTier1,CityTier2,CityTier3,,,2 Children,34
+3,158,10,75,Count,,Number Of Children Visiting,,,,Average,,3 Children,10
+MaritalStatus,,,,,,1,786,48,418,Count,,Divorced ,21
+Divorced ,284,21,156,Count,,2,555,34,306,Count,,Married,56
+Married,756,56,393,Count,,3,158,10,75,Count,,Single,6
+Single,174,6,58,Count,,,CityTier1,CityTier2,CityTier3,,,Unmarried,9
+Unmarried,285,9,192,Count,,Divorced ,284,21,156,Count,,Passport 0,68
+Passport,,,,,,Married,756,56,393,Count,,Passport 1,24
+0,1051,68,569,Count,,Single,174,6,58,Count,,Own Car 0,32
+1,448,24,230,Count,,Unmarried,285,9,192,Count,,Own Car1,60
+OwnCar,,,,,,,CityTier1,CityTier2,CityTier3,,,Average Followups,4
+0,554,32,292,Count,,Passport 0,1051,68,569,Count,,1  Followups,2
+1,945,60,507,Count,,Passport 1,448,24,230,Count,,2  Followups,8
+Number Of Followups,4,4,4,Average,,OwnCar 0,554,32,292,Count,,3  Followups,10
+1,20,2,18,Count,,OwnCar 1,945,60,507,Count,,4  Followups,49
+2,100,8,36,Count,,Number Of Followups,,,,Average,,5  Followups,20
+3,224,10,153,Count,,1,20,2,18,Count,,6  Followups,3
+4,779,49,393,Count,,2,100,8,36,Count,,Free Lancer,
+5,317,20,163,Count,,3,224,10,153,Count,,Large Business,6
+6,60,3,36,Count,,4,779,49,393,Count,,Salaried,67
+Occupation,,,,,,5,317,20,163,Count,,Small Business,19
+Free Lancer,1,,,,,6,60,3,36,Count,,Female,23
+Large Business,139,6,63,Count,,,CityTier1,CityTier2,CityTier3,,,Male,69
+Salaried,802,67,302,Count,,Free Lancer,1,,,Count,,DurationOfPitchAverage,14
+Small Business,557,19,434,Count,,Large Business,139,6,63,Count,,Average Pitch Satisfaction Score,3
+Gender,,,,,,Salaried,802,67,302,Count,,Pitch Satisfaction Score 1,24
+Female,623,23,331,Count,,Small Business,557,19,434,Count,,Pitch Satisfaction Score 2,9
+Male,876,69,468,Count,,,CityTier1,CityTier2,CityTier3,,,Pitch Satisfaction Score 3,29
+DurationOfPitch,16,14,16,Average,,Female,623,23,331,Count,,Pitch Satisfaction Score 4,10
+Pitch Satisfaction Score,3,3,3,Average,,Male,876,69,468,Count,,Pitch Satisfaction Score 5,20
+1,266,24,171,Count,,DurationOfPitch,16,14,16,Average,,Average Preferred Property Star,4
+2,181,9,109,Count,,,CityTier1,CityTier2,CityTier3,,,Preferred Property Star 3,45
+3,476,29,217,Count,,1,266,24,171,Count,,Preferred Property Star 4,24
+4,280,10,139,Count,,2,181,9,109,Count,,Preferred Property Star 5,23
+5,296,20,163,Count,,3,476,29,217,Count,,Company Invited,21
+Preferred Property Star,4,4,4,Average,,4,280,10,139,Count,,Self Enquiry,71
+3,929,45,509,Count,,5,296,20,163,Count,,Basic Product,40
+4,286,24,138,Count,,,CityTier1,CityTier2,CityTier3,Average,,Standard Product,11
+5,284,23,152,Count,,3,929,45,509,Count,,King Product,6
+TypeofContact,,,,,,4,286,24,138,Count,,Deluxe Product,31
+Company Invited,453,21,241,Count,,5,284,23,152,Count,,Super Deluxe Product,4
+Self Enquiry,1046,71,558,Count,,,CityTier1,CityTier2,CityTier3,,,AVP Designation,4
+Male,876,69,468,,,Company Invited,453,21,241,Count,,Executive Designation,40
+ProductPitched,,,,,,Self Enquiry,1046,71,558,Count,,Manager Designation,31
+Basic,486,40,79,,,,,,,,,Senior Manager Designation,11
+Standard,312,11,215,,,,CityTier1,CityTier2,CityTier3,,,VP Designation,6
+King,54,6,11,,,Basic,486,40,79,,,,
+Deluxe,547,31,433,,,Standard,312,11,215,,,,
+Super Deluxe,100,4,61,,,King,54,6,11,,,,
+Designation,,,,,,Deluxe,547,31,433,,,,
+AVP,100,4,61,,,Super Deluxe,100,4,61,,,,
+Executive,486,40,79,,,,CityTier1,CityTier2,CityTier3,,,,
+Manager,547,31,433,,,AVP,100,4,61,,,,
+Senior Manager,312,11,215,,,Executive,486,40,79,,,,
+VP,54,6,11,,,Manager,547,31,433,,,,
+,,,,,,Senior Manager,312,11,215,,,,
+,,,,,,VP,54,6,11,,,,
